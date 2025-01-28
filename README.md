@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQGtxajeIUJJqw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738068068802?e=1743638400&v=beta&t=rRFqb6-JIjGVfinosWTEEkoBTTRImWUclHwI9SaLe9w)
 
 <h1 align="center">Hi 👋, I'm Enes</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+<h3 align="center">A passionate full stack developer from Türkiye</h3>
 
 - 💬 Ask me about **react**
 
